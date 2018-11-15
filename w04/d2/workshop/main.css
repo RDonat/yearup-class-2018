@@ -1,0 +1,43 @@
+html {
+  background: url(redbull.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+body {
+  margin: 0px;
+  padding: 0;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  background-color: #FFC425;
+  margin: 0px;
+  padding: 1%;
+}
+
+#proimage {
+  width: 15%;
+  margin-left: 44%;
+  margin-top: 30%;
+}
+
+#bullbullbutton {
+    margin-left: 47%;
+}
+
+footer {
+  margin: 0;
+  padding: 1%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+}

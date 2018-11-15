@@ -28,9 +28,9 @@ You’re tasked with creating a clean version that lays out all their products o
 
 ### Instructions
 
-- Take the time to create a wireframe for how this should store should look. Remember that being mobile ready is the aim.
+- Take the time to create a wireframe for how this store should look. Remember that being mobile ready is the aim.
 - Build out your HTML and CSS version of the product display. No need to make any ajax call yet to display all the products. This is important to make sure you understand what data you’ll be appending to the DOM from that large dataset.
-- Now that you’ve planned what goes where, you can write the actual javascript that’ll be appending the products to the DOM. This part can be tricky, don’t be discouraged! Make an AJAX call to https://www.redbullshopus.com/products.json and append each product in the array to the page you made, replacing your placeholder products.
+- Now that you’ve planned what goes where, you can write the actual JavaScript that’ll be appending the products to the DOM. This part can be tricky, don’t be discouraged! Make an AJAX call to https://www.redbullshopus.com/products.json and append each product in the array to the page you made, replacing your placeholder products.
 - Feel free to use any assets like logos or stock images from the main https://www.redbullshopus.com website while building, but keep it minimal. Remember to keep everything responsive! RedBull’s customers primarily use mobile phones.
 
 ### Bonus:
@@ -44,6 +44,3 @@ You’re tasked with creating a clean version that lays out all their products o
   - has a responsive layout.
   - has an accompanying wireframe.
 - Group review session for feedback and questions.
-
-
-
