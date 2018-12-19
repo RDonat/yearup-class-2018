@@ -14,7 +14,7 @@ By the end of this exercise the student will be able to:
 They’ve been tracking customers on a shared spreadsheet and it’s becoming cumbersome as they have hundreds of customers. They supplied you a csv file of their existing data and expect it to be in the new system.
 ### Setup
 - `bundle`
-- If you run `bundle exec ruby databse.rb`, you'll notice you arrive at a pry prompt. Use this to test the logic you defined in your file.
+- If you run `bundle exec ruby database.rb`, you'll notice you arrive at a pry prompt. Use this to test the logic you defined in your file.
 ### Instructions
 Firstly you should import the existing data into the database you’ll be using. Take a look at the csv file and take note of what tables and  columns you’ll need. It’s always important to be aware of what data you’re working with take the time to experiment on how you can import and work with the CSV data.
 - Importing data from csv to a ruby program: http://ruby-doc.org/stdlib-1.9.2/libdoc/csv/rdoc/CSV.html
